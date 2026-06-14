@@ -1,2 +1,2 @@
-# The-Greatest-Launch-Controller-Ever
-Project Goal: Create a high voltage launch controller which has a large diversity of buttons(We need the big read button). This also needs to comply with NARs
+# High Voltage Launch Controller
+ A NAR-compliant rocket launch controller with multiple safety controls and a large red launch button for reliable motor ignition.
