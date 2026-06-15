@@ -5,6 +5,8 @@
 
 In action! -> https://youtu.be/DEvmlcMtOac
 
+**Inspiration** 
+I've worked with few launch controllers, and they all are expensive, so I decided to make my own for cheap, and add all my gadets. 
 **Features**
 1. Key locked safety
 2. Red Safety Flip-Cover Switch
