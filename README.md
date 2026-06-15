@@ -3,7 +3,7 @@
 
  <img width="4032" height="3024" alt="IMG_6979" src="https://github.com/user-attachments/assets/06cc1761-62f1-4185-8944-72ed4325b92c" />
 
-In action! -> https://youtu.be/DEvmlcMtOac
+In action! -> https://youtu.be/g5O2mOlEx04
 
 **Inspiration** 
 I've worked with few launch controllers, and they all are expensive, so I decided to make my own for cheap, and add all my gadets. 
