@@ -16,3 +16,11 @@ I've worked with few launch controllers, and they all are expensive, so I decide
 
 **How to Works**
 The launch controler in simplicity is one giant circut with multipe pathways which allow different amount of amps flow through the ignitor. First the launch controller needs to be able to provide the operator a signal which gives the sign of the ignitor being hooked up propely. This is done by having one of the switches come pre built with a led which allows a minimal amount of current to flow through the ignitor when the safety key swtich is closed. this current is extreme minimal, and is not able to set of the pyrotechnic gel on the ignitor. With the led on, the operator now knows its properly connceted, and closes the red cap switch. Now for the max current to flow, the momentarty button(Black small on left side) needs to be pressed down. This will set up the final step, along with a buzzer which will signal that the ignitor saftey features are off, and ready to launch. While holding down the momentary button, the red button is able to be pressed. When pressed after is ok, the rocket will launch via the max current which is flowing through the ignitor setting the pyro gel off in the motor. 
+
+**Build Process** 
+I used CAD to copy the emblem, and create the outer shell. the box is just 3d printed with some lead holes for the M2 screws to be placed. Wiring took awhile, due to the lack of expierene, and the constant change of design as I had learned about the coninutity regulation mid build. 
+
+**Wiring**
+<img width="1262" height="799" alt="Launch Controller specifications " src="https://github.com/user-attachments/assets/79f836dc-0c27-4165-b2eb-1f5bec1acb3e" />
+
+
