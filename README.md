@@ -1,29 +1,49 @@
-# High Voltage Launch Controller
- A NAR-compliant rocket launch controller with multiple safety controls and a large red launch button for reliable motor ignition.
+**The Greatest Launch Contorller Ever**
 
- <img width="4032" height="3024" alt="IMG_6979" src="https://github.com/user-attachments/assets/06cc1761-62f1-4185-8944-72ed4325b92c" />
+This is a custom model rocket launch controller with tons of saftey controls, all in a 3d modeld box with A BIG RED BUTTON :)
 
-In action! -> https://youtu.be/g5O2mOlEx04
+**Project Overview**
 
-**Inspiration** 
-I've worked with few launch controllers, and they all are expensive, so I decided to make my own for cheap, and add all my gadets. 
-**Features**
-1. Key locked safety
-2. Red Safety Flip-Cover Switch
-3. Led which lights to ensure continutity with the ignitor
-4. momentarty button which is requiered to be held during igniton
-5. THE big red button which requires a secondary button(momentary button) to be able to let the current pass through the ignitor.
+This project has a completed physcial prototype, and a working launch demo, The controller was built, wired, assembled, and tested with a real model rocket launch. 
 
-A cad example of my project: <img width="962" height="620" alt="Screenshot 2026-06-16 at 8 58 18 PM" src="https://github.com/user-attachments/assets/4c501b4d-7e4b-4be6-a46c-98a4807812b8" />
+The goal of this project was to build an over complicated SAFE and more complete model rocket launch controller instead of using basic off the shelf products for $40. I wanted the controller to feel more like the real thing, with a clear complete launch squence, cool controls and a really big red button if I haven't mentioned it before rather then some plastic toy. 
+
+It also includes a continutiy indicator so the operator can check whether the ingiter circuit is conencted before the launch, and so tht you dont need to go onto the active launch pad to check if your wires are connected. 
+
+**Main Features**
+
+Key-lock safety switch
+Red flip-cover arming switch
+Continuity indicator LED
+Momentary safety button
+Large red launch button
+very loud buzzer 
+Working model rocket launch demo
+CAD file included
+
+**Project Photos**
+
+**How It Works**
+
+The launch controller is designed around the idea of hollywood buttons, and keys straight out of james bond. This makes accidental activation almost zero chance. 
+
+1. Connect the launch leads to the rocket ignitier
+2. Check the continuty 
+3. Inset and turn the safety key.
+4. flip the arming swtich(the rep cap switch)
+5. hold down the momentary saftey button 
+6. Press the large red button.
+
+The launch button as showed in the demo, can not be launched till all the safetys are off. 
+
+**Wiring and Control Logic**
+
+The wiring was designed so the controller has multiple steps before launch. The igniter needs a certain amount of current to pass through. so when the ignitor is connected the led causes enough resistance that the amps are too low so the ignitier won't light until the max current from the red button being pushed is flowing, Fun fact the ignitier only needs 2 amps to light properly, and I am pushing 6 amps practically exploding the igniter. SO this had some intense wirirng with my 10 dollar soldering kit, but it was all well in the end. 
 
 
-**How to Works**
-The launch controler in simplicity is one giant circut with multipe pathways which allow different amount of amps flow through the ignitor. First the launch controller needs to be able to provide the operator a signal which gives the sign of the ignitor being hooked up propely. This is done by having one of the switches come pre built with a led which allows a minimal amount of current to flow through the ignitor when the safety key swtich is closed. this current is extreme minimal, and is not able to set of the pyrotechnic gel on the ignitor. With the led on, the operator now knows its properly connceted, and closes the red cap switch. Now for the max current to flow, the momentarty button(Black small on left side) needs to be pressed down. This will set up the final step, along with a buzzer which will signal that the ignitor saftey features are off, and ready to launch. While holding down the momentary button, the red button is able to be pressed. When pressed after is ok, the rocket will launch via the max current which is flowing through the ignitor setting the pyro gel off in the motor. 
+**Demo**
 
-**Build Process** 
-I used CAD to copy the emblem, and create the outer shell. the box is just 3d printed with some lead holes for the M2 screws to be placed. Wiring took awhile, due to the lack of expierene, and the constant change of design as I had learned about the coninutity regulation mid build. 
-
-**Wiring**
-<img width="1262" height="799" alt="Launch Controller specifications " src="https://github.com/user-attachments/assets/79f836dc-0c27-4165-b2eb-1f5bec1acb3e" />
+Working launch demo: https://youtu.be/g5O2mOlEx04
 
 
+See BOM.md for the full parts list.
