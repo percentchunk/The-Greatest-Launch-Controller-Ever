@@ -1,4 +1,7 @@
-**The Greatest Launch Contorller Ever**
+**The Greatest Launch Controller Ever**
+
+<img width="1262" height="799" alt="607671622-79f836dc-0c27-4165-b2eb-1f5bec1acb3e" src="https://github.com/user-attachments/assets/b7ac40db-c2f3-4d85-ae83-bf47b5f68641" />
+
 
 This is a custom model rocket launch controller with tons of saftey controls, all in a 3d modeld box with A BIG RED BUTTON :)
 
@@ -38,10 +41,16 @@ The launch button as showed in the demo, can not be launched till all the safety
 
 **Wiring and Control Logic**
 
+<img width="1262" height="799" alt="607671622-79f836dc-0c27-4165-b2eb-1f5bec1acb3e" src="https://github.com/user-attachments/assets/c527b4a2-9b44-4cf7-b617-6b7af51067b3" />
+
+ 
 The wiring was designed so the controller has multiple steps before launch. The igniter needs a certain amount of current to pass through. so when the ignitor is connected the led causes enough resistance that the amps are too low so the ignitier won't light until the max current from the red button being pushed is flowing, Fun fact the ignitier only needs 2 amps to light properly, and I am pushing 6 amps practically exploding the igniter. SO this had some intense wirirng with my 10 dollar soldering kit, but it was all well in the end. 
 
 
 **Demo**
+
+<img width="1440" height="900" alt="Screenshot 2026-06-18 at 10 45 11 PM" src="https://github.com/user-attachments/assets/beea33a4-afa1-436a-9f84-c3f015d3418d" />
+
 
 Working launch demo: https://youtu.be/g5O2mOlEx04
 
