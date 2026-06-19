@@ -1,6 +1,6 @@
 **The Greatest Launch Controller Ever**
 
-<img width="1262" height="799" alt="607671622-79f836dc-0c27-4165-b2eb-1f5bec1acb3e" src="https://github.com/user-attachments/assets/b7ac40db-c2f3-4d85-ae83-bf47b5f68641" />
+<img width="4032" height="3024" alt="607637813-06cc1761-62f1-4185-8944-72ed4325b92c" src="https://github.com/user-attachments/assets/586108e6-eb97-45ef-9fb3-6490d106817d" />
 
 
 This is a custom model rocket launch controller with tons of saftey controls, all in a 3d modeld box with A BIG RED BUTTON :)
