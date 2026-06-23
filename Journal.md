@@ -90,6 +90,8 @@ The testing included:
 
 The controller was then demonstrated during a real model rocket launch. The video shows the safety controls being used and the controller successfully completing the launch.
 
+TEST: https://youtu.be/g5O2mOlEx04
+
 ---
 
 ## Final Result
