@@ -37,6 +37,8 @@ The hardest part was determining the correct order of the controls. I needed the
 
 Pretty much, I had to figure out the amps needed to set the ignitor off so that I could purposley flow the amount of amps to not set the igniters off before the actual safetys were turned off. 
 
+<img width="1262" height="799" alt="LaunchController2" src="https://github.com/user-attachments/assets/eb1b501e-1df6-4ef4-9844-495c633a176f" />
+
 ---
 
 ## Session 3 — CAD designing
@@ -48,6 +50,7 @@ I designed the controller enclosure to hold the switches, buttons, indicator LED
 I arranged the controls so that it had a certain order to it, and you could not mess it up as much. 
 
 It was a pretty simple design, just a box with some emblems on it. 
+<img width="1440" height="900" alt="LaunchController3" src="https://github.com/user-attachments/assets/629890b0-43e7-4b35-a92f-11eb2d95cd7c" />
 
 
 
@@ -61,8 +64,14 @@ I installed the controls into the enclosure and completed the internal wiring.
 
 This stage required fitting the wires and components into the case while keeping the connections organized. I checked the switch order and verified that the launch button could not operate without the required safety controls.
 
-wiring was so much fun that, I had to un solder so many times do to wirings touching, or I just straight up connected the wrong ones as the shematic was complicated.  Launch leds was a stripped extenstion cord. The third wire is just a signal wire or sm, its there for the love of the game. 
+wiring was so much fun that, I had to un solder so many times do to wirings touching, or I just straight up connected the wrong ones as the shematic was complicated.  Launch leds was a stripped extenstion cord. The third wire is just a signal wire or sm, its there for the love of the game.
+
+<img width="4032" height="3024" alt="LaunchController1" src="https://github.com/user-attachments/assets/88705986-3f3c-4876-863b-f84a912b25f6" />
+
+
+
 ---
+
 
 ## Session 5 — Testing and Launch Demonstration
 
