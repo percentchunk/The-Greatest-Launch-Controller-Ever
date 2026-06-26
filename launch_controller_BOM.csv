@@ -1,0 +1,13 @@
+﻿Part,Quantity,Price (USD),Product Link,Purpose
+Panel-mount key switch,1,4.99,https://www.ebay.com/itm/133576698906,Main safety lock
+Red covered toggle switch,1,4.75,https://www.sparkfun.com/toggle-switch-and-cover-illuminated-red.html,Visible arming control
+Large red arcade button,1,5.95,https://www.adafruit.com/product/471,Final launch control
+Panel-mount momentary button,1,0.95,https://www.adafruit.com/product/1445,Hold-to-enable safety control
+Red 5 mm LED,1,0.32,https://www.adafruit.com/product/297,Continuity indicator
+Piezo buzzer,1,1.50,https://www.adafruit.com/product/160,Audible status feedback
+8-AA battery holder,1,2.68,https://www.parts-express.com/8-AA-Cell-Battery-Holder-140-978,Holds the controller batteries
+3D-printed enclosure,1,2.50,Printed from included CAD files,Holds and protects the controls
+Hookup wire and solder,As needed,2.00,Already available,Internal electrical connections
+Screws and mounting hardware,As needed,1.00,Already available,Secures the enclosure and components
+Model-rocketry launch leads and approved power equipment,1 set,Provided,Supervisor-provided equipment,Used for supervised model-rocketry testing
+Total,,26.64,,
